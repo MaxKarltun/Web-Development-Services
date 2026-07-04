@@ -1,85 +1,64 @@
-# Web-Development-Services
+# 🚀 Web Development Services
 
-A USER is looking for web dev services. this is the place.
-We build your website by creating a plan that works for you. Then we design and include maintenance service.
-This is a professional web-friendly website for web devlopement services. We offer custumized web design. Front end website was created using HTML and CSS.
+A modern, professional web development services website built to showcase custom design solutions for clients who want a strong online presence.
 
-<div id="top"><div>
-<!--
-*** This is the Readme for the Personal portfolio project
- 
--->
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://maxkarltun.github.io/Web-Development-Services/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karltun%20Moreno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karltun-moreno-0a910a46/)
 
-<!-- Project Power -->
+![Project Banner](https://karltunmoreno.github.io/My-Portfolio/assets/images/webdevlogo.jpg)
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+---
 
-![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/webdevlogo.jpg)
+## 🛠️ Tech Stack
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-6f42c1?style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
-![Sass](https://img.shields.io/badge/-SASS-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
+---
 
-<!-- Project Logo -->
-<br />
-<div align="center">
-    <a href="https://karltunmoreno.github.io/Web-Development-Services/">
-        
-   
-</div>
+## 📌 About the Project
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-        <a href="#contact">Contact</a>
-    </li>
+**Web Development Services** is a passion project created to support individuals and businesses looking for a professional website.
 
-  </ol>
-</details>
+The site presents:
+- custom web design services
+- a clean and web-friendly layout
+- project and portfolio references
+- a responsive front-end experience
 
-<!-- ABOUT THE PROJECT -->
+---
 
-## About The Challange
+## ✨ Features
 
-### The Task:
+- ✅ Fully responsive layout
+- ✅ Clean HTML5 and CSS3 structure
+- ✅ Modern service-focused landing page
+- ✅ Project links and portfolio references
 
-A Passion Project to service the public in need of a coding web programmer. This site serves as a service site for web development services.
+---
 
+## 🌐 Live Website
 
+🔗 **Visit here:**  
+https://maxkarltun.github.io/Web-Development-Services/
 
-### What was done.
+---
 
-My Web Development Services mock MVP site with short bio of my recent achivements.
+## 👤 Author
 
-It also have links to Repos and projects I have done through links on site.
+**Max Karltun**  
+GitHub: [@MaxKarltun](https://github.com/MaxKarltun)  
+LinkedIn: https://www.linkedin.com/in/max-karltun-0a910a46/
 
-Thank you for taking time looking at this readme page.
+---
 
-Happy coding!
+## 🙌 Thanks
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+Thank you for checking out this project.  
+If you like it, feel free to star the repo and connect with me!
 
-<!-- CONTACT -->
-
-## Contact
-
-@maxkarltun
-
-Project Link: https://maxkarltun.github.io/Web-Development-Services/
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/karltun-moreno-0a910a46/
-
-## Features
-
-- Fully Responsive
-- HTML5 + CSS3
+Happy coding! 💻
