@@ -70,9 +70,9 @@ Happy coding!
 
 ## Contact
 
-Karltun Moreno @ Karltunmoreno@gmail.com
+@maxkarltun
 
-Project Link: [https://karltunmoreno.github.io/Web-Development-Services/](https://karltunmoreno.github.io/Web-Development-Services/)
+Project Link: https://maxkarltun.github.io/Web-Development-Services/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
